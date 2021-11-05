@@ -1,4 +1,4 @@
-### About Me 🤗
+<h3 align="center"> About Me 🤗 </p>
 
 <!--
 **lianaling/lianaling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  
- 🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)
- 🌱 Open to frontend, backend, database and artificial intelligence development
- 📫 Contact me by [Email](mailto:lianalingliya@gmail.com) [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
+ <p align="center">🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)</p>
+ <p align="center">🌱 Open to frontend, backend, database and artificial intelligence development</p>
+ <p align="center">📫 Contact me by [Email](mailto:lianalingliya@gmail.com) [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)</p>
 
-[![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
 <br />
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianaling&theme=dark)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianaling&theme=dark)](https://git.io/streak-stats)</p>
