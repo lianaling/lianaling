@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  
- 🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)
- 🌱 Open to frontend, backend, database and artificial intelligence development
- 📫 Contact me by [Email](mailto:lianalingliya@gmail.com) [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
+🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)
+<br />
+🌱 Open to frontend, backend, database and artificial intelligence development
+<br />
+📫 Contact me by [Email](mailto:lianalingliya@gmail.com) [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
 
 [![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianaling&theme=dark)](https://git.io/streak-stats)
 <br />
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianaling&theme=dark)](https://git.io/streak-stats)
+
