@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 🤗
 
 <!--
 **lianaling/lianaling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
+ 
+ 🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)
+ 🌱 Open to frontend, backend, database and artificial intelligence development
+ 📫 Contact me by [Email](mailto:lianalingliya@gmail.com) [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
 
-[![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling)](https://github.com/lianaling/github-readme-stats)
+[![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling&count_private=true&show_icons=true&theme=colbalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaling&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianaling&theme=cobalt)](https://git.io/streak-stats)
