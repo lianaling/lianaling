@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)
 <br />
 🌱 Intrigued by the artificial intelligence field, especially natural language processing
+<br />
 ✨ Open to big data, data analytics, machine learning and deep learning
 <br />
 📫 Contact me via [email](mailto:lianalingliya@gmail.com) or [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
