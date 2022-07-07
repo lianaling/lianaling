@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br />
 📫 Contact me via [email](mailto:lianalingliya@gmail.com) or [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
 
-[![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats
+[![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianaling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
