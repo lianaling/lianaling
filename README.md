@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  
-🙋‍ A final-year software engineering student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my)
+🙋‍ Graduated from [Tunku Abdul Rahman University of Management and Technology](https://www.tarc.edu.my) with a software engineer degree
 <br />
 🌱 Intrigued by the artificial intelligence field, especially natural language processing
 <br />
