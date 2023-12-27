@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- 
-🙋‍ Graduated from [Tunku Abdul Rahman University of Management and Technology](https://www.tarc.edu.my) with a software engineer degree
+
+🙋‍ Graduated from [Tunku Abdul Rahman University of Management and Technology](https://www.tarc.edu.my) with a software engineer degree; currently a master's degree at [Univeristy College Dublin](https://www.ucd.ie)
 <br />
-🌱 Intrigued by the artificial intelligence field, especially natural language processing
+🌱 Intrigued by the artificial intelligence field, especially natural language processing, AI ethics and AI art
 <br />
 ✨ Open to big data, data analytics, machine learning and deep learning
 <br />
