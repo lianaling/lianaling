@@ -15,10 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-🙋‍ Graduated from [Tunku Abdul Rahman University of Management and Technology](https://www.tarc.edu.my) with a software engineer degree; currently a master's degree at [Univeristy College Dublin](https://www.ucd.ie)
-<br />
-🌱 Intrigued by the artificial intelligence field, especially natural language processing, AI ethics and AI art
-<br />
-✨ Open to big data, data analytics, machine learning and deep learning
-<br />
-📫 Contact me via [email](mailto:lianalingliya@gmail.com) or [LinkedIn](https://www.linkedin.com/in/liana-ling-612a9b167/)
+- MSc in Computer Science; specialisation in Machine Learning and Data Analysis from [University College Dublin](https://www.ucd.ie)
+- BSc (Hons) in Software Engineering from [Tunku Abdul Rahman University of Management and Technology](https://www.tarc.edu.my)
